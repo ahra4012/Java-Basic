@@ -16,9 +16,10 @@ java 11
 ### Widow 단축키 모음
 
 - **리팩토링**
+- **Create Test**
 
 
-    ctrl + shift + alt + T
+    ctrl + shift + T
 
 - **import**
 
