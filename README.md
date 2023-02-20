@@ -34,4 +34,9 @@ java 11
 
 
     alt + insert
+    
+- **주석처리**
+
+
+    alt + shift + /
 
