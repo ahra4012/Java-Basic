@@ -40,6 +40,6 @@ java 11
 - **주석처리**
 
 
-    alt + shift + /
+   ctrl + shift + /
 
 
