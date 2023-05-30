@@ -41,5 +41,9 @@ java 11
 
 
    ctrl + shift + /
+   
+- **메서드 추출**
+
+    ctrl + alt + m
 
 
